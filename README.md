@@ -20,7 +20,9 @@
   <img title="React" alt="React" src="https://github.com/chasec22/chasec22/blob/main/assets/React-icon.svg" width=60> 
   <img title="AWS" alt="AWS" src="https://github.com/chasec22/chasec22/blob/main/assets/aws.svg" width=80> 
   <img title="Django" alt="Django" src="https://github.com/chasec22/chasec22/blob/main/assets/django.svg" width=40> 
-  <img title="Docker" alt="Docker" src="https://github.com/chasec22/chasec22/blob/main/assets/docker.svg" width=110 style="margin:3px;">
+  <img title="Docker" alt="Docker" src="https://github.com/chasec22/chasec22/blob/main/assets/docker-svgrepo-com.svg" width=110 style="margin:3px;">
+  <img title="Git" alt="Git" src="https://github.com/chasec22/chasec22/blob/main/assets/git.svg" width=100 style="margin:3px;">
+  <img title="MySQL" alt="MySQL" src="https://github.com/chasec22/chasec22/blob/main/assets/mysql.svg" width=50 style="margin:3px;">
 </p>
 
 <!--
