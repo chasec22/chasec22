@@ -33,7 +33,11 @@
 </p>
 
 <h4>How to reach me:</h4>
-
+<p>
+  <a href="linkedin.com/in/chase-copeland/"><img title="LinkedIn" alt="LinkedIn" src="https://github.com/chasec22/chasec22/blob/main/assets/linkedin-icon-2.svg" width=40></a>
+  <a href="https://mail.google.com/mail/u/0/?to=copelandc6@gmail.com&su=SUBJECT&body=BODY&&fs=1&tf=cm"><img title="Gmail" alt="Gmail" src="https://github.com/chasec22/chasec22/blob/main/assets/gmail-icon.svg" width=54></a>
+    <a href="https://www.instagram.com/chasecopeland22/"><img title="IG" alt="IG" src="https://github.com/chasec22/chasec22/blob/main/assets/instagram-2016-5.svg" width=40></a>
+</p>
 <!--
 **chasec22/chasec22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
